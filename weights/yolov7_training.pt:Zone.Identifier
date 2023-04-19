@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/shihongvt/Official-YOLOv7
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/511187726/13e046d1-f7f0-43ab-910b-480613181b1f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230418T043458Z&X-Amz-Expires=300&X-Amz-Signature=ce21cec691a8d04820ac45295d911e60dd9e5ffff164552e175ecaefc6bc70ca&X-Amz-SignedHeaders=host&actor_id=116891067&key_id=0&repo_id=511187726&response-content-disposition=attachment%3B%20filename%3Dyolov7_training.pt&response-content-type=application%2Foctet-stream
