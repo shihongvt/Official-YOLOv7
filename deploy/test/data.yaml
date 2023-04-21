@@ -1,0 +1,13 @@
+train: ../test/train/images
+val: ../test/valid/images
+test: ../test/test/images
+
+nc: 1
+names: ['car']
+
+roboflow:
+  workspace: shihong
+  project: traffic-signs-lplws
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shihong/traffic-signs-lplws/dataset/1
