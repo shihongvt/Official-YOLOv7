@@ -1,0 +1,14 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+roboflow:
+  license: Public Domain
+  project: hard-hat-sample-rwg5m
+  url: https://app.roboflow.com/project/hard-hat-sample-rwg5m/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: Hard-Hat-Sample-1/train/images
+val: Hard-Hat-Sample-1/valid/images
